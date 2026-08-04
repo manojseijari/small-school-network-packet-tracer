@@ -1,3 +1,4 @@
+<img width="1862" height="611" alt="Screenshot 2026-08-04 104554" src="https://github.com/user-attachments/assets/814e40d9-a002-4264-b4e4-334ca4647099" />
 # small-school-network-packet-tracer
 A Cisco Packet Tracer project simulating a small school network with VLAN segmentation, Router-on-a-Stick, inter-VLAN routing, DHCP, DNS, HTTP, and ACL-based security.
 
